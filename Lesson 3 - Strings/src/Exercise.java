@@ -21,16 +21,15 @@ String codesmall = code.substring(0,5);
 System.out.println(codesmall+"\n"+code);
 
 System.out.println("A backlash looks like \\, ...right?");
+System.out.println(" ");
 
 String s1 = "Allan Alda";
 String s2 = "John Wayne";
 String s3 = "Gregory Peck";
-String s1small = s1.substring(2,7);
-String s2small = s2.substring(2,7);
-String s3small = s3.substring(2,9);
-System.out.println(s1+">>>"+s1small);
-System.out.println(s2+">>>"+s2small);
-System.out.println(s3+">>>"+s3small);
+System.out.println(s1+">>>"+s1.substring(2,s1.length()-3));
+System.out.println(s2+">>>"+s2.substring(2,s2.length()-3));
+System.out.println(s3+">>>"+s3.substring(2,s3.length()-3));
+
 	}
 
 }
