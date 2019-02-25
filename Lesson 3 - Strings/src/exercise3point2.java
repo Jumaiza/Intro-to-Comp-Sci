@@ -18,6 +18,9 @@ String word222 = word2.substring(0,8);
 String word2222 = word22.toUpperCase();
 System.out.println(word222+"\""+word2222+"\"");
 
+String word= "Every Way The Wind Blows";
+
+
 
 
 
