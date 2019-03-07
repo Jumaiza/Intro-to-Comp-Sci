@@ -19,6 +19,27 @@ public class Project4point1 {
 		int n = 11;
 		int o = 2246;
 		
+		int ans1 = a + b * (c + d - e) - f + g;
+		int ans2 = (h + i + j) / f + k;
+		int ans3 = l * m * n + o;
+		
+		System.out.println(a+" + "+b+" *"+" ("+c+" + "+d+" - "+e+")"+" - "+f+" + "+g+" = "+ans1);
+		System.out.println("("+h+" + "+i+" + "+j+") / "+f+" + "+k+" = "+ans2);
+		System.out.println(l+" * "+m+" * "+n+" + "+o+" = "+ans3);
+		
+		int x = 5;
+		++x;
+		System.out.println(x);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
