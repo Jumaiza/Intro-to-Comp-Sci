@@ -27,9 +27,7 @@ public class Project4point1 {
 		System.out.println("("+h+" + "+i+" + "+j+") / "+f+" + "+k+" = "+ans2);
 		System.out.println(l+" * "+m+" * "+n+" + "+o+" = "+ans3);
 		
-		int x = 5;
-		++x;
-		System.out.println(x);
+		
 		
 		
 		
