@@ -1,10 +1,9 @@
 
-public class Exercise {
+public class ComputeThis {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
 	}
 
 }

@@ -15,7 +15,9 @@ public class MixedResults {
 		System.out.println("Problem 5: "+(15-i1*((int)d1*3)+4));
 		
 		
+		System.out.println(Math.ceil(157));
 		
+		System.out.println(Math.log(18));
 		
 		
 		
