@@ -13,7 +13,7 @@ public class Grades {
 		System.out.println("Test 3 grade?");
 		int test3 = y.nextInt();
 		System.out.println("average : "+(test1+test2+test3)/3);
-		
+		y.close();
 		
 	}
 

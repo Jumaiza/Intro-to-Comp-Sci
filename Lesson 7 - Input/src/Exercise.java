@@ -9,6 +9,7 @@ public class Exercise {
 		System.out.println("What is the Area of the circle?");
 		double radius = x.nextDouble();
 		System.out.println(Math.sqrt(radius/Math.PI));
+		x.close();
 		
 
 		

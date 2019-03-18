@@ -13,6 +13,7 @@ public class Name {
 		lName = x.nextLine();
 		fullName = fName+" "+lName;
 		System.out.println("Your full name is "+fullName);
+		x.close();
 		
 		
 	}
