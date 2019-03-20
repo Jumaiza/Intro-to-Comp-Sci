@@ -18,6 +18,8 @@ public class Quadratic {
 		System.out.println("Plus = "+(-b+Math.sqrt(discriminant))/(2*a));
 		System.out.println("Minus = "+(-b-Math.sqrt(discriminant))/(2*a));
 		
+		x.close();
+		
 		
 	}
 

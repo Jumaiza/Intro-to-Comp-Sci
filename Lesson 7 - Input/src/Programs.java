@@ -12,6 +12,7 @@ public class Programs {
 	System.out.println("Your name has "+count+" characters in it, how many would you like me to print?");
 	int count2 = x.nextInt();
 	System.out.println(name.substring(0,count2));
+	x.close();
 	
 			
 			

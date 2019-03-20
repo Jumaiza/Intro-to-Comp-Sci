@@ -11,15 +11,6 @@ public class Exercise {
 		System.out.println(Math.sqrt(radius/Math.PI));
 		x.close();
 		
-
-		
-		
-		
-			
-			
-			;
-		
-		
 		
 	}
 

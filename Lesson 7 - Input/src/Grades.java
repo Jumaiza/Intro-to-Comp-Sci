@@ -12,7 +12,10 @@ public class Grades {
 		int test2 = y.nextInt();
 		System.out.println("Test 3 grade?");
 		int test3 = y.nextInt();
-		System.out.println("average : "+(test1+test2+test3)/3);
+		System.out.println("Test 1 grade : "+test1);
+		System.out.println("Test 2 grade : "+test2);
+		System.out.println("Test 3 grade : "+test3);
+		System.out.println("average : "+(test1+test2+test3)/3.0);
 		y.close();
 		
 	}

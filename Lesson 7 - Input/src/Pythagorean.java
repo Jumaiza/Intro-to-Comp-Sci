@@ -11,6 +11,7 @@ public class Pythagorean {
 		System.out.println("Please enter your B value");
 		double bValue = x.nextDouble();
 		System.out.println("Square root of "+aValue+" squared + "+bValue+" squared = "+(Math.sqrt(Math.pow(aValue,2)+Math.pow(bValue,2))));
+		x.close();
 		
 		
 		

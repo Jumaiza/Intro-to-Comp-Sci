@@ -12,6 +12,7 @@ public class Indez {
 		String letter = x.nextLine();
 		int number = word.indexOf(letter);
 		System.out.println("Your letter occurs at index "+number);
+		x.close();
 		
 		
 		
